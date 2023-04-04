@@ -1,7 +1,7 @@
 ###  Olá! Eu sou o Paulo Lima 👋
 <hr>
 
- • 📘  Eu atualmente estou estudando JS e PHP
+ • 📘  Eu atualmente estou cursando Sistemas de Informação
  
  • 👨‍🎓  Fiz o curso técnico "Informática para Internet" na Etec
  

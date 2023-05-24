@@ -5,7 +5,7 @@
  
  • 👨‍💼  Fui o fundador e o CEO da Startup ambiental Impatec, semi-finalista na edição 2022 do programa Startup in School, cujo o Google tem parceria
 
- • 📘  Eu atualmente trabalho como programador júniro em uma empresa de sistemas e curso Sistemas de Informação pela FIAP
+ • 📘  Eu atualmente trabalho como programador júnior em uma empresa de sistemas e curso Sistemas de Informação pela FIAP
  
  • 🙂  Pretendo colaborar em mais projetos de programação
  

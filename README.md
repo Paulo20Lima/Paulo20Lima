@@ -1,9 +1,9 @@
 ###  Olá! Eu sou o Paulo Lima 👋
 <hr>
  
- • 👨‍🎓  Sou formado no curso técnico "Informática para Internet" pela ETEC Parque da Juventude
+ • 👨‍🎓  Sou Técnico em Web pela ETEC Parque da Juventude
  
- • 👨‍💼  Fui o fundador e o CEO da Startup ambiental Impatec, semi-finalista na edição 2022 do programa Startup in School, cujo o Google tem parceria
+ • 👨‍💼  Fui semi-finalista na edição 2022 do programa Startup in School, cujo o Google tem parceria
 
  • 📘  Eu atualmente trabalho como programador júnior em uma empresa de sistemas e curso Sistemas de Informação pela FIAP
  
@@ -15,6 +15,7 @@
   <img align="center" alt="icon-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
 </div>
 <hr>

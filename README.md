@@ -20,7 +20,6 @@
 </div>
 <hr>
 
-<div> 
-  <a href="https://instagram.com/ph_lxd?igshid=NmQ2ZmYxZjA=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
  <a href="mailto:paulo7lima@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>

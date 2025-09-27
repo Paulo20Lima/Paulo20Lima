@@ -1,10 +1,10 @@
 ###  Olá! Eu sou o Paulo Lima 👋
 <hr>
  
-• 👨‍🎓  Sou Técnico em Web pela ETEC Parque da Juventude  
-• 👨‍💼  Fui semi-finalista na edição 2022 do programa Startup in School, cujo o Google tem parceria  
-• 📘  Eu atualmente trabalho como programador em uma empresa de sistemas ERP e curso Sistemas de Informação pela FIAP  
-• 🙂  Pretendo colaborar em mais projetos de programação  
+👨‍🎓  Sou Técnico em Web pela ETEC Parque da Juventude  
+👨‍💼  Fui semi-finalista na edição 2022 do programa Startup in School, cujo o Google tem parceria  
+📘  Eu atualmente trabalho como programador em uma empresa de sistemas ERP e curso Sistemas de Informação pela FIAP  
+🙂  Pretendo colaborar em mais projetos de programação  
 
 <div style="display: flex; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo20Lima&show_icons=true&theme=radical&count_private=true"/>
